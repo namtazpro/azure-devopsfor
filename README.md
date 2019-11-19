@@ -1,2 +1,7 @@
 # azure-devopsfor
-A list of good practises and code samples when automating the deployment of Azure PaaS and serverless services
+
+A list of good practises and code samples for deployment automation (DevOps) Azure PaaS and serverless services.
+
+Use the list of services below to navigate the repository:
+
+- [Azure LogicApps](logicapps/logicapps.md)
