@@ -1,17 +1,19 @@
 # Logic Apps deployment
 
 Considerations for your LogicApps deployment:
-- Scripting the LogicApps process
-- Scripting the API connectors
+- Scripting the LogicApps 
+- Scripting the API Connections
 
-In a real-life project scenario your LogicApps will be deployed in multiple environments as part of your CI/CD. In Dev, then Test/UAT/QA (depending) then in Production.
-The API connection have to be scripted separately than the rest of your LogicApps and referenced in the LogicApps process when deployed.
+In a real-life project scenario, your LogicApps will be deployed in multiple environments as part of your CI/CD. In Dev, then Test/UAT/QA (depending) then in Production.
+The API connections have to be scripted separately and referenced in the LogicApps at deployment time via parameters for example.
 
-API Connections have a different lifecycle than your LogicApps and exist environment. This means dedicated CI/CD for the connections or your solutions. A solutions may be composed of multiple LogicApps but all sharing the same API connections (tbc). 
+API Connections have a different lifecycle than your LogicApps and exist for each environment. This means dedicated CI/CD for the API Connections or your solutions. A solution may be composed of multiple LogicApps but all sharing the same API connections (tbc). 
 
 -- nice drawing here --
 
 ## Logic App deployment
+
+TBC
 
 ## Connectors deployment
 
@@ -23,9 +25,9 @@ Retrieve the API Parameters by calling the URL below with [armclient.exe](https:
 armclient.exe get https://management.azure.com/subscriptions/{subscriptionId}/providers/Microsoft.Web/locations/{region}/managedApis/{Api}?api-version=2016-06-01
 ```
 
-API connection that use OAuth need to be provided consent after deployment. In automated deployment this can be achieved using this [PowerShell Script](https://github.com/logicappsio/LogicAppConnectionAuth).
+An API connection that use OAuth need to be provided consent after deployment. In automated deployment this can be achieved using this [PowerShell Script](https://github.com/logicappsio/LogicAppConnectionAuth).
 
-Parameter types by API connection type for the most important ones.
+Below is a list of parameter types by API connection type for the most important ones:
 
 * azureblob
   * accountName
