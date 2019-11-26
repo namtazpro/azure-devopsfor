@@ -7,7 +7,7 @@ Considerations for your LogicApps deployment:
 In a real-life project scenario, your LogicApps will be deployed in multiple environments as part of your CI/CD. In Dev, then Test/UAT/QA (depending) then in Production.
 The API connections have to be scripted separately and referenced in the LogicApps at deployment time via parameters for example.
 
-API Connections have a different lifecycle than your LogicApps and exist for each environment. This means dedicated CI/CD for the API Connections or your solutions. A solution may be composed of multiple LogicApps but all sharing the same API connections (tbc). 
+API Connections have a different lifecycle than your LogicApps and exist for each environment. This means dedicated CI/CD for the API Connections or your solutions. 
 
 -- nice drawing here --
 
