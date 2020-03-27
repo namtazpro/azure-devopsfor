@@ -27,7 +27,7 @@ Use the list of services below to navigate the repository:
 - [Community: Continuous delivery of Power BI Reports with AzureDevops](https://medium.com/@lopatin.yegor/continuous-delivery-of-power-bi-reports-with-azuredevops-549b8658ca52)
 
 ### DevOps for Data Projects
-
+- [DataOps for the Modern Data Warehouse](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
 
 ### AKS
 
