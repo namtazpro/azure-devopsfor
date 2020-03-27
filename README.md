@@ -28,6 +28,7 @@ Use the list of services below to navigate the repository:
 
 ### DevOps for Data Projects
 - [DataOps for the Modern Data Warehouse](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
+- [Data DevOps (aka DataOps) Series](https://github.com/davedoesdemos/DemoIndex/blob/master/README.md)
 
 ### AKS
 
