@@ -30,7 +30,7 @@ Use the list of services below to navigate the repository:
 - [DataOps for the Modern Data Warehouse](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
 - [Data DevOps (aka DataOps) Series](https://github.com/davedoesdemos/DemoIndex/blob/master/README.md)
 
-### DevOps for PowerApps
+### PowerApps
 - [Power Apps build tools for Azure DevOps](https://docs.microsoft.com/en-gb/powerapps/developer/common-data-service/build-tools-overview)
 
 ### AKS
