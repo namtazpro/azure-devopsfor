@@ -7,7 +7,7 @@ Use the list of services below to navigate the repository:
 ## DevOps for Azure Services
 ### Azure Logic Apps
 - [General guidance](logicapps/logicapps.md)
-//- [Community: Example implementation (Russell Smith - Microsoft)](logicapps/logicapps.md)
+<!-- --> - [Community: Example implementation (Russell Smith - Microsoft)](logicapps/logicapps.md)
 
 ### Azure Data Factory
 - [Microsoft: Azure Data Factory - Azure Doc](https://azure.microsoft.com/mediahandler/files/resourcefiles/whitepaper-adf-on-azuredevops/Azure%20data%20Factory-Whitepaper-DevOps.pdf)
