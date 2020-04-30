@@ -7,7 +7,7 @@ Use the list of services below to navigate the repository:
 ## DevOps for Azure Services
 ### Azure Logic Apps
 - [General guidance](logicapps/logicapps.md)
-- [Community: Example implementation (Russell Smith)](logicapps/logicapps.md)
+//- [Community: Example implementation (Russell Smith - Microsoft)](logicapps/logicapps.md)
 
 ### Azure Data Factory
 - [Microsoft: Azure Data Factory - Azure Doc](https://azure.microsoft.com/mediahandler/files/resourcefiles/whitepaper-adf-on-azuredevops/Azure%20data%20Factory-Whitepaper-DevOps.pdf)
@@ -18,6 +18,7 @@ Use the list of services below to navigate the repository:
 
 ### Azure DataBricks
 - [Community: Azure DataBricks](https://github.com/davedoesdemos/DataDevOps/blob/master/Databricks/DatabricksDevOps.md)
+- [Community: Large-scale Data/MLOps with Azure & Databricks (Ahmed Mostafa- Microsoft)](https://github.com/ahmedsmostafa/databricks-azureml-mlops)
 
 ### PowerBI
 - [Microsoft: PowerBI deployment pipelines](https://myignite.techcommunity.microsoft.com/sessions/83502?source=sessions)
