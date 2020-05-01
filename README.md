@@ -16,9 +16,12 @@ Use the list of services below to navigate the repository:
 ### Azure API Management
 - [Microsoft: Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)
 
+### MLOps
+- [ML Ops with GitHub Actions and Azure Machine Learning](https://github.com/machine-learning-apps/ml-template-azure)
+- [Community: Large-scale Data/MLOps with Azure & Databricks (Ahmed Mostafa- Microsoft)](https://github.com/ahmedsmostafa/databricks-azureml-mlops)
+
 ### Azure DataBricks
 - [Community: Azure DataBricks](https://github.com/davedoesdemos/DataDevOps/blob/master/Databricks/DatabricksDevOps.md)
-- [Community: Large-scale Data/MLOps with Azure & Databricks (Ahmed Mostafa- Microsoft)](https://github.com/ahmedsmostafa/databricks-azureml-mlops)
 
 ### PowerBI
 - [Microsoft: PowerBI deployment pipelines](https://myignite.techcommunity.microsoft.com/sessions/83502?source=sessions)
