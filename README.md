@@ -16,7 +16,8 @@ Use the list of services below to navigate the repository:
 ### Azure API Management
 - [Microsoft: Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)
 
-### MLOps
+### DataScience
+- [Source control for Python](datascience/python.md)
 - [ML Ops with GitHub Actions and Azure Machine Learning](https://github.com/machine-learning-apps/ml-template-azure)
 - [Community: Large-scale Data/MLOps with Azure & Databricks (Ahmed Mostafa- Microsoft)](https://github.com/ahmedsmostafa/databricks-azureml-mlops)
 
