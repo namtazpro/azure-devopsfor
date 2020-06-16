@@ -134,3 +134,8 @@ Below is a list of parameter types by API connection type for the most important
 )
 
 Community: [Deploy Logic Apps & API Connection with ARM](https://www.bruttin.com/2017/06/13/deploy-logic-app-with-arm.html)
+
+## Data parsing and transformation in LogicApps
+### File parsing
+- CSV and FlatFile : create an xml schema (.xsd) using [BizTalk Flat File Schema Wizard](https://docs.microsoft.com/en-us/biztalk/core/walkthrough-creating-a-flat-file-schema-from-a-document-instance). The wizard is accessible in Visual Studio 2015 using [Azure Logic Apps Tools for Visual Studio 2015](https://marketplace.visualstudio.com/items?itemName=VinaySinghMSFT.AzureLogicAppsToolsforVisualStudio). Once created the schema is used with an integration account in LogicApps [Encode and decode flat files in Azure Logic Apps by using the Enterprise Integration Pack](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-flatfile)
+- Use 3rd party connector such as [Plumsail](https://docs.microsoft.com/en-us/connectors/plumsail/), [Encodian](https://docs.microsoft.com/en-us/connectors/encodiandocumentmanager/), [Cloudmersive](https://docs.microsoft.com/en-us/connectors/cloudmersiveconvert/#convert-csv-to-json-conversion)  
